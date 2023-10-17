@@ -1,9 +1,8 @@
-FROM amd64/golang:latest AS builder
+FROM golang:latest AS builder
 
 ENV GO111MODULE=on \
     CGO_ENABLED=0 \
     GOOS=linux \
-    GOARCH=amd64 \
     GOPROXY=https://goproxy.cn,direct
 
 MAINTAINER HomeNavigation "nuanxinqing@gmail.com"

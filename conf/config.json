@@ -1,7 +1,7 @@
 {
   "Index": {
-    "Logo": "https://pic.6b7.xyz/2022/03/06/1f48ba24e4949.ico",
-    "Favicon": "https://pic.6b7.xyz/2022/03/06/1f48ba24e4949.ico",
+    "Logo": "/img/1f48ba24e4949.ico",
+    "Favicon": "/img/1f48ba24e4949.ico",
     "Title": "Cloud Services"
   },
   "SoftWare": {
@@ -15,84 +15,84 @@
     {
       "id": 1,
       "title": "我的博客",
-      "ico": "https://pic.6b7.xyz/2022/03/07/df34301c829c7.png",
+      "ico": "/img/df34301c829c7.png",
       "w_link": "https://6b7.org/",
       "n_link": "https://6b7.org/"
     },
     {
       "id": 2,
       "title": "我的网盘",
-      "ico": "https://pic.6b7.xyz/2022/03/07/ff5b38c0e5d69.png",
+      "ico": "/img/ff5b38c0e5d69.png",
       "w_link": "https://alist.6b7.org/",
       "n_link": "https://alist.6b7.org/"
     },
     {
       "id": 3,
       "title": "我的音乐",
-      "ico": "https://pic.6b7.xyz/2022/03/07/e423b98fc37fe.png",
+      "ico": "/img/e423b98fc37fe.png",
       "w_link": "https://y.qq.com/",
       "n_link": "#"
     },
     {
       "id": 4,
       "title": "我的相册",
-      "ico": "https://pic.6b7.xyz/2022/03/07/384785b7e656a.png",
+      "ico": "/img/384785b7e656a.png",
       "w_link": "#",
       "n_link": "#"
     },
     {
       "id": 5,
       "title": "我的视频",
-      "ico": "https://pic.6b7.xyz/2022/03/07/cf55fe76b2d73.png",
+      "ico": "/img/cf55fe76b2d73.png",
       "w_link": "#",
       "n_link": "#"
     },
     {
       "id": 6,
       "title": "远程迅雷",
-      "ico": "https://pic.6b7.xyz/2022/03/07/ebd5ae0c4f028.png",
+      "ico": "/img/ebd5ae0c4f028.png",
       "w_link": "#",
       "n_link": "#"
     },
     {
       "id": 7,
       "title": "我的下载",
-      "ico": "https://pic.6b7.xyz/2022/03/07/6fd1a29c365b0.png",
+      "ico": "/img/6fd1a29c365b0.png",
       "w_link": "#",
       "n_link": "#"
     },
     {
       "id": 8,
       "title": "我的设置",
-      "ico": "https://pic.6b7.xyz/2022/03/07/dea6c2d1c0d25.png",
+      "ico": "/img/dea6c2d1c0d25.png",
       "w_link": "#",
       "n_link": "#"
     },
     {
       "id": 9,
       "title": "BT下载",
-      "ico": "https://pic.6b7.xyz/2022/03/07/3106ed43120b8.png",
+      "ico": "/img/3106ed43120b8.png",
       "w_link": "https://alist.6b7.org/",
       "n_link": "https://alist.6b7.org/"
     },
     {
       "id": 10,
       "title": "NAS管理",
-      "ico": "https://pic.6b7.xyz/2022/03/07/7b2035e938882.png",
+      "ico": "/img/7b2035e938882.png",
       "w_link": "#",
       "n_link": "#"
     },
     {
       "id": 11,
       "title": "管理路由",
-      "ico": "https://pic.6b7.xyz/2022/03/07/0056f7e81d762.png",
+      "ico": "/img/0056f7e81d762.png",
       "w_link": "#",
       "n_link": "#"
     },
     {
       "id": 12,
       "title": "监听监控",
-      "ico": "https://pic.6b7.xyz/2022/03/07/ee4ce0ead6330.png",
+      "ico": "/img/ee4ce0ead6330.png",
       "w_link": "#",
       "n_link": "#"
     }
